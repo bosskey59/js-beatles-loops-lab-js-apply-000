@@ -18,11 +18,10 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   let array=[];
-  let x = 0;
   do{
     array.push ("I love the Beatles!");
-    x++;
+    number;
   }
-  while(x < number);
+  while(x < 15);
   return array;
 }
